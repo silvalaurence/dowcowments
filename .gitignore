@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Built output of the bundled example (sources are committed, Word files are not)
+example/docs/**/*.docx
+example/docs/.build_state.json
+
+.DS_Store
+Thumbs.db
