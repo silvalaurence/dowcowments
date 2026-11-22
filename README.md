@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="dowcowments-logo.svg" width="560" alt="dowcowments">
-</p>
+<img src="site/logo.svg" alt="dowcowments" width="370">
 
 > Move your documents in project manager.
 
