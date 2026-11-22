@@ -1,4 +1,6 @@
-# docowment
+<p align="center">
+  <img src="dowcowments-logo.svg" width="560" alt="dowcowments">
+</p>
 
 > Move your documents in project manager.
 
